@@ -21,7 +21,7 @@ Relogio digital com HTML, CSS e JS
 <br>
 
 <p align="center">
-  <img alt="Relógio Digital" src="" width="100%">
+  <img alt="Relógio Digital" src="./img/relogio-digital.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
