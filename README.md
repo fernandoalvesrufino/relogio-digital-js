@@ -36,6 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Relógio digital dinâmico com HTML, CSS e JAVASCRIPT
 
+- [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/relogio-digital-js/)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
